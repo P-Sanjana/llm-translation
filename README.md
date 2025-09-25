@@ -1,5 +1,7 @@
 # LLM Translation App
 
+Deployed link: https://llm-translation-1.streamlit.app/
+
 This is a Streamlit app that uses the GoogleGenerativeAI library to translate text from one language to another. It allows users to input text, select the source and target languages, and then translate the text.
 
 ## Prerequisites
